@@ -1,0 +1,3 @@
+C:\Users\arakerma\OneDrive - Microsoft\Shared with Everyone\Modern Apps\Bot Framework\Projects\AlarmBot\obj\Debug\AlarmBot.njsprojResolveAssemblyReference.cache
+C:\Users\arakerma\OneDrive - Microsoft\VS\AlarmBot\obj\Debug\AlarmBot.njsprojResolveAssemblyReference.cache
+C:\Users\arakerma\OneDrive - Microsoft\VS\AlarmBot\bin\Microsoft.NodejsTools.WebRole.dll
